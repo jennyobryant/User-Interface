@@ -64,3 +64,126 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+h1{
+ font-size: 75px;
+ font-family: Bangers; 
+ margin-left: 34px;
+ text-align: center; 
+
+}
+
+.whole {
+	display: block;
+	margin: 0 auto;
+	width: 875px;
+	margin-top: 30px;
+	margin-bottom: 80px;
+}
+
+.top{
+	display: block;
+	margin-bottom: 50px;
+}
+
+.nar{
+	display: inline-block;
+	margin-right: 0px; 
+	vertical-align: top; 
+	padding-top: 11px;
+}
+
+.lists{
+	display: inline;
+	margin-right: 60px; 
+	color: gray; 
+}
+
+.linetop{
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+.linebottom{
+	margin-top: 40px; 
+	margin-bottom: 40px; 
+}
+
+.first{
+	display: inline;
+}
+
+.middle-img{
+	margin-top: 40px;
+	margin-bottom: 40px; 
+}
+
+.firstinline{
+	display: inline;
+}
+
+.PO1{
+	width: 410px;
+	display: inline-block;
+	vertical-align: top; 
+	padding-top: 50px;
+
+	
+}
+
+.PO2{
+	width: 390px; 
+	display: inline-block; 
+}
+
+.secondinline{
+	display: inline;
+}
+
+.P1{
+	width: 410px;
+	display: inline-block;
+}
+
+.P2{
+	width: 410px; 
+	display: inline-block;
+	Margin-left: 30px; 
+}
+
+.thirdinline{
+	display: inline; 
+}
+
+.P3{
+	width: 260px; 
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.P4{
+	width: 260px; 
+	display: inline-block;
+	margin-right: 20px
+}
+
+.P5{
+	width: 260px; 
+	display: inline-block; 
+}
+
+.phonenumber{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.copyright{
+	text-align: center; 
+	margin-top: 40px; 
+}
+
+button{
+	background: white; 
+	border: 1px solid black;
+	padding: 5px 30px;
+	margin-left: 153px;
+}
